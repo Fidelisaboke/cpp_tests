@@ -3,6 +3,9 @@ using namespace std;
 
 //creating a structure to group common variables:
 struct Patient{
+
+    //data members (variables):
+
     int patientNumber;
     string firstName;
     string surname;
