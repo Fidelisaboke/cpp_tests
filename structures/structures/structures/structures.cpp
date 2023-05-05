@@ -10,7 +10,7 @@ struct Patient{
 
 int main()
 {
-    //creating an array object from the structure:
+    //creating an array object from structure Patient:
 
     Patient patients[30];
     int counter, no_of_patients;
